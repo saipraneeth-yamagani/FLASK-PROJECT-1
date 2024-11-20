@@ -28,9 +28,11 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Project Structure
 ``graphql
-Copy code
+
 FLASK-PROJECT-1/
 │
+
+
 ├── app.py              # Main Flask application
 ├── database.db         # SQLite database file (auto-created)
 ├── templates/
